@@ -1,0 +1,8 @@
+{
+    "name": "praktikum/php-jenkins-app",
+    "description": "PHP App untuk Jenkins Pipeline",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
